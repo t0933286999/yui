@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: 蔬食 ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+subtitle: 'For [歡迎光臨](http://www.mceea.url.tw/)'
 
 design:
   background:
