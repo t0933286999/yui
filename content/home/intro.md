@@ -8,7 +8,7 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: 蔬食 ✏️ Blog Template
+title: 茶飲蔬食 ✏️ Blog Template
 subtitle: 'For [歡迎光臨](http://www.mceea.url.tw/)'
 
 design:
