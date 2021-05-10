@@ -57,6 +57,11 @@ social:
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+當季農作物生產說明
+1. 本公司堅持100%台灣茶葉並通過農藥檢測。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+2. 茶葉屬於天然生長植物，絕非像罐裝飲料添加化合物或人工香料調製，所以每一季的風味都是獨一無二 。
+
+3. 就算同樣廠牌也無法複製每一批都一模一樣的味道、會有些微差異，這是天然農產品的特性 
+
+做茶已有多年的歷史，到現今社會為第五代傳承。 榮獲：國家有機農產品認證、國家有機茶品行銷認證、有機茶包裝認證、有機製茶機器認證、有機行銷規劃認證、土水合格認證、農藥合格認證
